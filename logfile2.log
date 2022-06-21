@@ -1,0 +1,4 @@
+ kirti 20-06-22 16:06:44 <module> this is debug  DEBUG  8
+ kirti 20-06-22 16:06:44 <module> this is warning  WARNING  10
+ kirti 20-06-22 16:06:44 <module> this is critical  CRITICAL  12
+ kirti 20-06-22 16:06:44 fun (<class 'ZeroDivisionError'>, ZeroDivisionError('division by zero'), <traceback object at 0x7f8c057c4280>)  ERROR  23
